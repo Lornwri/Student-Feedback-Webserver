@@ -1,0 +1,11 @@
+{
+  "name": "student-feedback-webserver",
+  "version": "1.0.0",
+  "description": "Student Feedback Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natasha Wright",
+  "license": "ISC"
+}
